@@ -5,12 +5,12 @@
 <!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
 <html>
   <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title></title>
-    <meta name="description" content="" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" href="styles/index.css" />
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="c32dad9911d2d6f52f94b5502db1a5f1">
   </head>
   <body>
     <!--[if lt IE 7]>
@@ -20,6 +20,6 @@
       >
     <![endif]-->
 
-    <script src="scripts/index.js" async defer></script>
+    <script src="4844dde519c6d16e8bbb778c9cdfe917" async="" defer=""></script>
   </body>
 </html>
